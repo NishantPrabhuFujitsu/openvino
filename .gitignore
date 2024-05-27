@@ -75,3 +75,7 @@ coverage
 /src/plugins/intel_cpu/tools/commit_slider/slider_cache/*
 /src/plugins/intel_cpu/thirdparty/ComputeLibrary/build/*
 .github/GITHUB_OUTPUT
+
+# Custom
+.ov_models/
+*.log

@@ -84,3 +84,6 @@
 [submodule "src/plugins/intel_cpu/thirdparty/libxsmm"]
 	path = src/plugins/intel_cpu/thirdparty/libxsmm
 	url = https://github.com/libxsmm/libxsmm.git
+[submodule "thirdparty/openvino_tokenizers"]
+	path = thirdparty/openvino_tokenizers
+	url = https://github.com/openvinotoolkit/openvino_tokenizers
